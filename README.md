@@ -1,28 +1,65 @@
 # gbd-glosario-18-19
-Glosario para el módulo de Gestión de Bases de Datos
 
-[A](#a)
+Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
+
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
 
 ## B
 
-### Base de datos
-
-bla bla...
-
 ### Bases de datos orientadas a objetos
 
-Es un sistema de gestión de base de datos mediante el cual se representa la información en forma de objetos que son utilizados en programación orientada a los mismos. 
+En una base de datos orientada a objetos la información se representa en forma de objetos como los que son utilizados en la programación orientada a objetos. Las bases de datos orientadas a objetos son diseñadas para que trabjar bien en conjunción con lenguajes de programación orientados a objetos como Java, C# o C++. 
 
-Entre sus características podemos destascar que incluye lenguajes para realizar las consultas, una mayor velocidad a la hora de acceder a los datos, agilización de las aplicaciones multimedia e incluso permite seguir un control de versiones. 
-
-Algunas de estas bases de datos han sido orientadas a trabajar con lenguajes de programación como puede ser Delphi, Ruby, Python o Java.
-
-### Blocchain
-
-bla bla...
+Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object database management system) integra las características de una base de datos con las de un lenguaje de programación orientado a objetos. Un ODBMS hace que los objetos de la base de datos aparezcan como objetos de en los lenguajes de programación a los que dé soporte. Un ODBMS extiende los lenguajes con datos persistentes de forma transparente, control de concurrencia, recuperación de datos, consultas asociativas y otras capacidades.
 
 ## C
+
+## D
+
+## E
+
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+
+## N
+
+## O
+
+## P
+
+## Q
+
+## R
+
+## S
+
+## T
+
+## U
+
+## V
+
+## W
+
+## X
+
+## Y
+
+## Z
 
 
