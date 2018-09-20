@@ -8,6 +8,12 @@ Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
 ## B
 
+### Bases de datos no relacionales (NoSQL)
+
+Las bases de datos NoSQL están diseñadas específicamente para modelos de datos específicos con esquemas flexibles para crear aplicaciones modernas. Además son ampliamente reconocidas porque son fáciles de desarrollar, su funcionalidad y el rendimiento a escala. En este modelo los datos están optimizados para un desarrollo intuitivo y escalabilidad horizontal.
+
+Las bases de datos NoSQL utilizan una variedad de modelos de datos para acceder y administrar datos. Estos tipos de bases de datos están optimizados específicamente para aplicaciones que requieren grandes volúmenes de datos, baja latencia y modelos de datos flexibles, lo que se logra mediante la flexibilización de algunas de las restricciones de coherencia de datos en otras bases de datos.
+
 ### Bases de datos orientadas a objetos
 
 En una base de datos orientada a objetos la información se representa en forma de objetos como los que son utilizados en la programación orientada a objetos. Las bases de datos orientadas a objetos son diseñadas para que trabjar bien en conjunción con lenguajes de programación orientados a objetos como Java, C# o C++. 
@@ -61,5 +67,17 @@ Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object databa
 ## Y
 
 ## Z
+
+
+
+
+
+
+
+
+
+
+
+
 
 
