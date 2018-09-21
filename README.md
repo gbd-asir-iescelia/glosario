@@ -22,7 +22,8 @@ Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object databa
 
 ## C
 
-## D
+## D- Definición de base de datos: 
+Son es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico.
 
 ## E
 
