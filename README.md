@@ -53,6 +53,9 @@ Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object databa
 ## R
 
 ## S
+ 
+### Sistema Gestor de Base de Datos
+Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos. A través de él se maneja todo acceso a la base de datos con el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones. Proporciona herramientas que permiten el almacenamiento, la extracción y modificación en una base de datos, además de proporcionar herramientas para añadir, borrar o modificar los datos entre otras. 
 
 ## T
 
