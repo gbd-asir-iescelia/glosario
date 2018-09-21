@@ -1,7 +1,5 @@
 # gbd-glosario-18-19
 
-
-
 Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
@@ -66,7 +64,12 @@ Un Blockchain, traducido al castellano como cadena de bloques o cadena articulad
 
 ## N
 
-## Organización secuencial encadenada en archivos
+## O 
+
+### Organización secuencial en archivos
+Es una forma básica de organizar un conjunto de registros, los cuales forman un archivo utilizando una organización secuencial. En este los archivos quedan organizados consecutivamente, por norma general los archivos quedan grabados según el valor que se le aporte a cada campo de registro. La forma mas común del archivo es el archivo secuencial.
+
+### Organización secuencial encadenada en archivos
 Son archivos organizados  de manera secuencial encadenada mediante punteros , son comandos que te llevan a una dirección  de un registro dentro del archivo, indican el orden en secuencia lógica y no por orden en secuencia física. Los punteros tienen una posición fija ,definida y   una longitud constante.
 
 ## P
@@ -90,7 +93,6 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 ## Y
 
 ## Z
-
 
 
 
