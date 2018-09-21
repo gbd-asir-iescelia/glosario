@@ -1,10 +1,16 @@
 # gbd-glosario-18-19
 
+
+
 Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
+
+### Archivo
+
+Un archivo es un conjunto de bits almacenados en un dispositivo y que pueden ser usados por las aplicaciones correspondientes a su formato, el cual vendrá definido por la extensión, que son las tres letras precedidas de un punto que se encuentran al final del nombre del archivo (Por ejemplo los archivos acabados en .txt son archivos de texto, los .mp3 son de audio, los .mkv son de video, etc.).
 
 ## B
 
@@ -84,6 +90,8 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 ## Y
 
 ## Z
+
+
 
 
 
