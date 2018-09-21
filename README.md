@@ -26,6 +26,9 @@ Una base de datos jerárqica es un sistema de gestión de bases de datos que alm
 
 Esta relación jerárquica no es estrictamente obligatoria, de manera que pueden establecerse relaciones entre nodos hermanos, y en este caso, la estructura en forma de árbol se convierte en una estructura en forma de grafo dirigido (esta variante se denomina Bases de datos de Red).
 
+### Blockchain
+
+Un Blockchain, traducido al castellano como cadena de bloques o cadena articulada, es una estructura en la que la información contenida se agrupa en bloques a los que se les añade información relativa a otro bloque de la cadena anterior en una línea temporal, de manera que gracias a técnicas criptográficas, la información contenida en un bloque solo puede ser editada modificando todos los bloques posteriores. Esto permite su aplicación en un entorno distribuido de manera que la estructura de datos blockchain puede ejercer como base de datos pública no relacional que contenga un histórico irrefutable de información. Esta práctica ha permitido la implementación de un registro contable distribuido que permite soportar y garantizar la seguridad de las criptomonedas.
 
 ## C
 
@@ -75,7 +78,6 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 ## Y
 
 ## Z
-
 
 
 
