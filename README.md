@@ -1,15 +1,16 @@
 # gbd-glosario-18-19
 
 
-Esto es una prueba.
-Este comentario solo es una prueba
-
 
 Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
+
+### Archivo
+
+Un archivo es un conjunto de bits almacenados en un dispositivo y que pueden ser usados por las aplicaciones correspondientes a su formato, el cual vendrá definido por la extensión, que son las tres letras precedidas de un punto que se encuentran al final del nombre del archivo (Por ejemplo los archivos acabados en .txt son archivos de texto, los .mp3 son de audio, los .mkv son de video, etc.).
 
 ## B
 
@@ -24,6 +25,12 @@ Las bases de datos NoSQL utilizan una variedad de modelos de datos para acceder 
 En una base de datos orientada a objetos la información se representa en forma de objetos como los que son utilizados en la programación orientada a objetos. Las bases de datos orientadas a objetos son diseñadas para que trabjar bien en conjunción con lenguajes de programación orientados a objetos como Java, C# o C++. 
 
 Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object database management system) integra las características de una base de datos con las de un lenguaje de programación orientado a objetos. Un ODBMS hace que los objetos de la base de datos aparezcan como objetos de en los lenguajes de programación a los que dé soporte. Un ODBMS extiende los lenguajes con datos persistentes de forma transparente, control de concurrencia, recuperación de datos, consultas asociativas y otras capacidades.
+
+### Base de datos indexadas
+
+Son las bases de datos que se organizan en base a un índice. Este índice da acceso directo a todos los registros que se encuentran en la base de datos.
+Las ventajas son la posibilidad de uso de una base de datos Secuencial y una mayor velocidad en el acceso a los registros de la base de datos.
+Su principal inconveniente es el mayor uso de espacio, ya que tenemos un índice adjunto a la base de datos.
 
 ### Base de datos jerárquica
 
@@ -96,6 +103,8 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 ## Y
 
 ## Z
+
+
 
 
 
