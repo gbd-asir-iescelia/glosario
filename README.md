@@ -26,6 +26,16 @@ Son las bases de datos que se organizan en base a un índice. Este índice da ac
 Las ventajas son la posibilidad de uso de una base de datos Secuencial y una mayor velocidad en el acceso a los registros de la base de datos.
 Su principal inconveniente es el mayor uso de espacio, ya que tenemos un índice adjunto a la base de datos.
 
+### Base de datos jerárquica
+
+Una base de datos jerárqica es un sistema de gestión de bases de datos que almacena la información en una estructura jerárquica que enlaza los registros en forma de estructura de árbol (similar a un árbol visto al revés), en donde un nodo padre de información puede tener varios nodos hijo, y así sucesivamente.
+
+Esta relación jerárquica no es estrictamente obligatoria, de manera que pueden establecerse relaciones entre nodos hermanos, y en este caso, la estructura en forma de árbol se convierte en una estructura en forma de grafo dirigido (esta variante se denomina Bases de datos de Red).
+
+### Blockchain
+
+Un Blockchain, traducido al castellano como cadena de bloques o cadena articulada, es una estructura en la que la información contenida se agrupa en bloques a los que se les añade información relativa a otro bloque de la cadena anterior en una línea temporal, de manera que gracias a técnicas criptográficas, la información contenida en un bloque solo puede ser editada modificando todos los bloques posteriores. Esto permite su aplicación en un entorno distribuido de manera que la estructura de datos blockchain puede ejercer como base de datos pública no relacional que contenga un histórico irrefutable de información. Esta práctica ha permitido la implementación de un registro contable distribuido que permite soportar y garantizar la seguridad de las criptomonedas.
+
 ## C
 
 ## D
@@ -50,7 +60,8 @@ Su principal inconveniente es el mayor uso de espacio, ya que tenemos un índice
 
 ## N
 
-## O
+## Organización secuencial encadenada en archivos
+Son archivos organizados  de manera secuencial encadenada mediante punteros , son comandos que te llevan a una dirección  de un registro dentro del archivo, indican el orden en secuencia lógica y no por orden en secuencia física. Los punteros tienen una posición fija ,definida y   una longitud constante.
 
 ## P
 
