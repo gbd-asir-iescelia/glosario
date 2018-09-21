@@ -24,7 +24,7 @@ En una base de datos orientada a objetos la información se representa en forma 
 
 Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object database management system) integra las características de una base de datos con las de un lenguaje de programación orientado a objetos. Un ODBMS hace que los objetos de la base de datos aparezcan como objetos de en los lenguajes de programación a los que dé soporte. Un ODBMS extiende los lenguajes con datos persistentes de forma transparente, control de concurrencia, recuperación de datos, consultas asociativas y otras capacidades.
 
-### Base de datos indexadas
+### Base de datos indexada
 
 Son las bases de datos que se organizan en base a un índice. Este índice da acceso directo a todos los registros que se encuentran en la base de datos.
 Las ventajas son la posibilidad de uso de una base de datos Secuencial y una mayor velocidad en el acceso a los registros de la base de datos.
