@@ -85,6 +85,12 @@ Es una forma básica de organizar un conjunto de registros, los cuales forman un
 ### Organización secuencial encadenada en archivos
 Son archivos organizados  de manera secuencial encadenada mediante punteros , son comandos que te llevan a una dirección  de un registro dentro del archivo, indican el orden en secuencia lógica y no por orden en secuencia física. Los punteros tienen una posición fija ,definida y   una longitud constante.
 
+### Organización Directa de Archivos
+
+Un archivo esta organizado en modo directo cuando el orden físico no se corresponde con el orden lógico. Los datos se sitúan en el archivo y se accede a ellos directa, aleatoriamente, mediante su posición, es decir, el lugar relativo que ocupan. Esta organización tiene la ventaja de que se pueden leer y escribir registros en cualquier orden y posición. Son muy rápidos de acceso a la información que contienen.
+
+***La organización directa*** tiene el inconveniente de que se necesita programarla relación existente entre el contenido de un registro y la posición que ocupa. El acceso a los registros en modo directo implica la posible existencia de huecos libres dentro del soporte y por consecuencia pueden existir huecos libres entre los registros.
+
 ## P
 
 ## Q
