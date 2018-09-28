@@ -55,7 +55,8 @@ Así, la estructura de árbol se puede considerar como un caso especial de la es
 
 ## C
 
-## D
+## D- Definición de base de datos: 
+Son es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico.
 
 ## E
 
@@ -102,6 +103,9 @@ Un archivo esta organizado en modo directo cuando el orden físico no se corresp
 ### Sistema Gestor de Base de Datos
 Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos. A través de él se maneja todo acceso a la base de datos con el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones. Proporciona herramientas que permiten el almacenamiento, la extracción y modificación en una base de datos, además de proporcionar herramientas para añadir, borrar o modificar los datos entre otras. 
 
+### SQL
+Es un lenguaje utilizado en programación diseñado para administrar sistemas gestor de bases de datos relacionales. Utiliza principalmente algebra y calculo racional para realizar consultas para obtener información de bases de datos y modificarlos. 
+
 ## T
 
 ## U
@@ -115,6 +119,7 @@ Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visible
 ## Y
 
 ## Z
+
 
 
 
