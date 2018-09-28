@@ -40,19 +40,6 @@ Esta relación jerárquica no es estrictamente obligatoria, de manera que pueden
 
 Un Blockchain, traducido al castellano como cadena de bloques o cadena articulada, es una estructura en la que la información contenida se agrupa en bloques a los que se les añade información relativa a otro bloque de la cadena anterior en una línea temporal, de manera que gracias a técnicas criptográficas, la información contenida en un bloque solo puede ser editada modificando todos los bloques posteriores. Esto permite su aplicación en un entorno distribuido de manera que la estructura de datos blockchain puede ejercer como base de datos pública no relacional que contenga un histórico irrefutable de información. Esta práctica ha permitido la implementación de un registro contable distribuido que permite soportar y garantizar la seguridad de las criptomonedas.
 
-
-### Sistema de Base de datos en red
-
-Una base de datos de red es una base de datos formada por una colección o set de registros, los cuales están conectados entre sí por medio de enlaces en una red. El registro es similar al de una entidad como las empleadas en el modelo relacional.
-
-Un registro es una colección o conjunto de campos (atributos), donde cada uno de ellos contiene solamente un único valor almacenado.
-
-El enlace es exclusivamente la asociación entre dos registros, así que podemos verla como una relación estrictamente binaria.
-
-Una estructura de base de datos de red, llamada algunas veces estructura de plex, abarca más que la estructura de árbol: un nodo hijo en la estructura red puede tener más de un nodo padre. En otras palabras, la restricción de que en un árbol jerárquico cada hijo puede tener sólo un padre, se hace menos severa.
-
-Así, la estructura de árbol se puede considerar como un caso especial de la estructura de red.
-
 ## C
 
 ## D- Definición de base de datos: 
@@ -105,6 +92,18 @@ Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visible
 
 ### SQL
 Es un lenguaje utilizado en programación diseñado para administrar sistemas gestor de bases de datos relacionales. Utiliza principalmente algebra y calculo racional para realizar consultas para obtener información de bases de datos y modificarlos. 
+
+### Sistema de Base de datos en red
+
+Una base de datos de red es una base de datos formada por una colección o set de registros, los cuales están conectados entre sí por medio de enlaces en una red. El registro es similar al de una entidad como las empleadas en el modelo relacional.
+
+Un registro es una colección o conjunto de campos (atributos), donde cada uno de ellos contiene solamente un único valor almacenado.
+
+El enlace es exclusivamente la asociación entre dos registros, así que podemos verla como una relación estrictamente binaria.
+
+Una estructura de base de datos de red, llamada algunas veces estructura de plex, abarca más que la estructura de árbol: un nodo hijo en la estructura red puede tener más de un nodo padre. En otras palabras, la restricción de que en un árbol jerárquico cada hijo puede tener sólo un padre, se hace menos severa.
+
+Así, la estructura de árbol se puede considerar como un caso especial de la estructura de red.
 
 ## T
 
