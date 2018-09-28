@@ -55,7 +55,8 @@ Así, la estructura de árbol se puede considerar como un caso especial de la es
 
 ## C
 
-## D
+## D- Definición de base de datos: 
+Son es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico.
 
 ## E
 
