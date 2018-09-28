@@ -12,6 +12,12 @@ Un archivo es un conjunto de bits almacenados en un dispositivo y que pueden ser
 
 ## B
 
+### Base de datos
+
+Es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico.
+
+[Referencia](https://es.wikipedia.org/wiki/Base_de_datos)
+
 ### Bases de datos no relacionales (NoSQL)
 
 Las bases de datos NoSQL están diseñadas específicamente para modelos de datos específicos con esquemas flexibles para crear aplicaciones modernas. Además son ampliamente reconocidas porque son fáciles de desarrollar, su funcionalidad y el rendimiento a escala. En este modelo los datos están optimizados para un desarrollo intuitivo y escalabilidad horizontal.
@@ -42,8 +48,7 @@ Un Blockchain, traducido al castellano como cadena de bloques o cadena articulad
 
 ## C
 
-## D- Definición de base de datos: 
-Son es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico.
+## D
 
 ## E
 
@@ -68,9 +73,11 @@ Son es una colección de información organizada de forma que un programa de ord
 ## O 
 
 ### Organización secuencial en archivos
+
 Es una forma básica de organizar un conjunto de registros, los cuales forman un archivo utilizando una organización secuencial. En este los archivos quedan organizados consecutivamente, por norma general los archivos quedan grabados según el valor que se le aporte a cada campo de registro. La forma mas común del archivo es el archivo secuencial.
 
 ### Organización secuencial encadenada en archivos
+
 Son archivos organizados  de manera secuencial encadenada mediante punteros , son comandos que te llevan a una dirección  de un registro dentro del archivo, indican el orden en secuencia lógica y no por orden en secuencia física. Los punteros tienen una posición fija ,definida y   una longitud constante.
 
 ### Organización Directa de Archivos
@@ -88,9 +95,11 @@ Un archivo esta organizado en modo directo cuando el orden físico no se corresp
 ## S
  
 ### Sistema Gestor de Base de Datos
+
 Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos. A través de él se maneja todo acceso a la base de datos con el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones. Proporciona herramientas que permiten el almacenamiento, la extracción y modificación en una base de datos, además de proporcionar herramientas para añadir, borrar o modificar los datos entre otras. 
 
 ### SQL
+
 Es un lenguaje utilizado en programación diseñado para administrar sistemas gestor de bases de datos relacionales. Utiliza principalmente algebra y calculo racional para realizar consultas para obtener información de bases de datos y modificarlos. 
 
 ### Sistema de Base de datos en red
