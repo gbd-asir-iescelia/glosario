@@ -1,7 +1,5 @@
 # gbd-glosario-18-19
 
-
-
 Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
@@ -26,7 +24,7 @@ En una base de datos orientada a objetos la información se representa en forma 
 
 Un **sistema gestor de base de datos orientada a objetos** (ODBMS, object database management system) integra las características de una base de datos con las de un lenguaje de programación orientado a objetos. Un ODBMS hace que los objetos de la base de datos aparezcan como objetos de en los lenguajes de programación a los que dé soporte. Un ODBMS extiende los lenguajes con datos persistentes de forma transparente, control de concurrencia, recuperación de datos, consultas asociativas y otras capacidades.
 
-### Base de datos indexadas
+### Base de datos indexada
 
 Son las bases de datos que se organizan en base a un índice. Este índice da acceso directo a todos los registros que se encuentran en la base de datos.
 Las ventajas son la posibilidad de uso de una base de datos Secuencial y una mayor velocidad en el acceso a los registros de la base de datos.
@@ -79,8 +77,19 @@ Así, la estructura de árbol se puede considerar como un caso especial de la es
 
 ## N
 
-## Organización secuencial encadenada en archivos
+## O 
+
+### Organización secuencial en archivos
+Es una forma básica de organizar un conjunto de registros, los cuales forman un archivo utilizando una organización secuencial. En este los archivos quedan organizados consecutivamente, por norma general los archivos quedan grabados según el valor que se le aporte a cada campo de registro. La forma mas común del archivo es el archivo secuencial.
+
+### Organización secuencial encadenada en archivos
 Son archivos organizados  de manera secuencial encadenada mediante punteros , son comandos que te llevan a una dirección  de un registro dentro del archivo, indican el orden en secuencia lógica y no por orden en secuencia física. Los punteros tienen una posición fija ,definida y   una longitud constante.
+
+### Organización Directa de Archivos
+
+Un archivo esta organizado en modo directo cuando el orden físico no se corresponde con el orden lógico. Los datos se sitúan en el archivo y se accede a ellos directa, aleatoriamente, mediante su posición, es decir, el lugar relativo que ocupan. Esta organización tiene la ventaja de que se pueden leer y escribir registros en cualquier orden y posición. Son muy rápidos de acceso a la información que contienen.
+
+***La organización directa*** tiene el inconveniente de que se necesita programarla relación existente entre el contenido de un registro y la posición que ocupa. El acceso a los registros en modo directo implica la posible existencia de huecos libres dentro del soporte y por consecuencia pueden existir huecos libres entre los registros.
 
 ## P
 
@@ -89,6 +98,9 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 ## R
 
 ## S
+ 
+### Sistema Gestor de Base de Datos
+Un Sistema Gestor de Base de Datos (SGBD) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos. A través de él se maneja todo acceso a la base de datos con el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones. Proporciona herramientas que permiten el almacenamiento, la extracción y modificación en una base de datos, además de proporcionar herramientas para añadir, borrar o modificar los datos entre otras. 
 
 ## T
 
@@ -103,7 +115,6 @@ Son archivos organizados  de manera secuencial encadenada mediante punteros , so
 ## Y
 
 ## Z
-
 
 
 
