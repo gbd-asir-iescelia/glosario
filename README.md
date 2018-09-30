@@ -1,4 +1,4 @@
-# gbd-glosario-18-19
+# Glosario
 
 Glosario para el módulo de Gestión de Bases de Datos de 1º ASIR.
 
